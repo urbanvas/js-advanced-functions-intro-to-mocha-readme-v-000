@@ -13,3 +13,6 @@ function favoriteIceCream(f) {
 function shouting(s) {
   return s.toUpperCase()
 }
+function roundDown(n) {
+  return Math.floor(n)
+}
